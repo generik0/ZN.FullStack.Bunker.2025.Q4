@@ -6,7 +6,7 @@ The primary focus is on your ability to direct, refine, and validate AI-generate
 
 Please clone the repo, push to your own github profile (as private if possible), and share the link with us (adding generik0 user if private).
 
-You do not need to deliver it all, please take your own time into consideration, however fokus on providing something special that we can talk about later at our following interviews.
+You do not need to deliver it all, please take your own time into consideration, however focus on providing something special that we can talk about later at our following interviews.
 
 
 -----
@@ -38,7 +38,7 @@ This test is designed to evaluate your skill in using AI as a development partne
 
 ### AI-Driven Development (Required) 🤖
 
-You can and should use an AI assistant (e.g., **GitHub Copilot, Gemini, ChatGPT, Claude, Cursor**) for this task. We want to see how you apply an **Iterative AI-Driven Development (IDD)** approach:
+You can and should use an AI assistant (e.g., **GitHub Copilot, Gemini, ChatGPT, Claude, Cursor**) for this task. We want to see how you apply an **Intent AI-Driven Development (IDD)** approach:
 
 1.  **Prompt**: Formulate clear prompts to generate code, tests, documentation, or project structure.
 2.  **Review & Refine**: Critically evaluate the AI's output for correctness, style, and adherence to best practices.
