@@ -4,7 +4,7 @@ This is a practical test to assess your modern development workflow. The goal is
 
 The primary focus is on your ability to direct, refine, and validate AI-generated code. **You are not required to deliver a fully runnable application**, but rather a well-structured codebase with clear examples of code and tests.
 
-Please fork this repo and share a PR.
+Please clone the repo, push to your own github profile (as private if possible), and share the link with us (adding generik0 user if private).
 
 You do not need to deliver it all, please take your own time into consideration, however fokus on providing something special that we can talk about later at our following interviews.
 
